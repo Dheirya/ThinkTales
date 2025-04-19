@@ -1,0 +1,106 @@
+html, body {
+    background-color: #0d1525;
+    color: #ffffff;
+    font-family: 'Schoolbell', sans-serif;
+    text-align: center;
+    scroll-behavior: smooth;
+}
+h1 {
+    margin-top: 35px;
+    margin-bottom: 0;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Short Stack', sans-serif;
+}
+.mainC {
+    font-family: 'Short Stack', sans-serif;
+    font-size: 20px;
+}
+.story {
+    font-size: 30px;
+    margin-top: 0;
+    padding: 0 10%;
+    background-color: #0d1525;
+    line-height: 1.4;
+    text-align: left;
+}
+.textInput {
+    font: .9em/1.5em "Schoolbell", sans-serif;
+    border: 1px solid;
+    padding: 0 10px;
+    margin: 0;
+    width: 16px;
+    background: none;
+    color: white;
+    border-radius: 5px;
+}
+button {
+    font: .9em/1.5em "Schoolbell", sans-serif;
+    border: 1px solid;
+    padding: 0 10px;
+    margin: 0;
+    background: none;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #ffffff;
+    color: #0d1525;
+}
+.preBtn {
+    margin-top: 10px;
+}
+.q {
+    margin-top: 25px;
+    font-family: 'Short Stack', sans-serif;
+    font-size: 22px;
+}
+.bigW {
+    width: 100%;
+    height: 45px;
+    margin-top: 15px;
+}
+.sb {
+    max-width: calc(50% - 25px);
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Short Stack', sans-serif;
+    font-size: 18px
+}
+.a {
+    background-color: #974e4e;
+}
+.a:hover, .a:active {
+    background-color: #b68383;
+}
+.e {
+    background-color: #cb8645;
+}
+.e:hover, .e:active {
+    background-color: #dbaa7d;
+}
+.f {
+    background-color: #a0a03e;
+}
+.f:hover, .f:active {
+    background-color: #c1c17d;
+}
+.b {
+    background-color: #3A7F3A;
+}
+.b:hover, .b:active {
+    background-color: #75a575;
+}
+.c {
+    background-color: #3A5A8B;
+}
+.c:hover, .c:active {
+    background-color: #758cae;
+}
+.d {
+    background-color: #8359ac;
+}
+.d:hover, .d:active {
+    background-color: #a88bc5;
+}
