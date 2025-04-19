@@ -1,4 +1,4 @@
-# ThinkTrails
+# ThinkTales
 Learn Through Adventure!
 
 ## Setup Instructions
